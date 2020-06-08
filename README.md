@@ -1,6 +1,6 @@
 This a python3 application which is made for [EBIOXP0919-4I4O](https://www.electronbits.com/product/ebioxp0919-4i4o) and running on Raspbeery Pi on EBRPIH1118 board. The board is powered by [TCA9534A I/O](http://www.ti.com/lit/ds/symlink/tca9534a.pdf?ts=1591595018761) expander chip.
 
-Considering the board is connected to EBRPIH1118 
+Considering the board is connected to [EBRPIH1118](https://www.electronbits.com/product/raspberry-pi-base) 
     
     |-------------------|
     |   SCL <-> SCL     |
