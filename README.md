@@ -15,5 +15,5 @@ Considering the board is connected to [EBRPIH1118](https://www.electronbits.com/
     To turn on relay number 1: python3 ebioxp4i4o_app.py -r1 --on
 
 ### usage#2:
-    To read digital input number 3: python3 ebioxp4i4o_app.py -di 1
+    To read digital input number 3: python3 ebioxp4i4o_app.py -di 3
 
